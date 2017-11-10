@@ -1,0 +1,19 @@
+run
+exit
+run
+sbt
+exit
+run
+git add .
+run
+git add .
+git init lab7part1
+git init
+git clone lab7part1
+git add .
+sbt
+run
+git clone lab7part1
+git clone HelloWorld
+git init
+exit
